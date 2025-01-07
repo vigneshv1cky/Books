@@ -1,0 +1,11 @@
+1. The StatQuest Illustrated Guide to Machine Learning - Dr. Josh Starmer
+* Learnt Stats and Machine With Illustration
+
+2. R for Data Science - Hadley Wickham & Garrett Grolemund
+*Learnt R and Tidyverse
+
+3. Hands-On Machine Learning with Scikit-Learn & TensorFlow , 1st and 2nd Edition - Aurelien Geron - Read Half
+* Mastered Scikit Learn and Got indepth into ML algorithms
+
+4. R in Action , 2nd Edition - Robert I. Kabacoff
+* Properly Learnt Statistical Analysis With R.
